@@ -3,7 +3,7 @@
 <h3 align="center">A Front-End developer from Pakistan </h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=warisahmed1293 alt=rahuldkjain/> </p>
 
-<p align="left"> <a href="https://twitter.com/warisahmed1293" target="blank"><img src="https://img.shields.io/twitter/follow/warisahmed1293?logo=twitter&style=for-the-badge" alt="warisahmed1293" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamwarisahmed" target="blank"><img src="https://img.shields.io/twitter/follow/warisahmed1293?logo=twitter&style=for-the-badge" alt="iamwarisahmed" /></a> </p>
 
 
 
