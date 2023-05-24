@@ -21,7 +21,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <p align="left">
 <a href="https://www.upwork.com/freelancers/warisahmed4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" alt="rahuldkjain" height="30" width="40" /></a>
     <a href="https://www.fiverr.com/creative_artizt?up_rollout=true" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fiverr.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCuqxPkI4oBRnp_yS11ZRE-Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="learn with waris ahmed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCuqxPkI4oBRnp_yS11ZRE-Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" alt="learn with waris ahmed" height="30" width="40" /></a>
 <a href="https://twitter.com/iamwarisahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/warisahmed1293" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://instagram.com/iamwarisahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
