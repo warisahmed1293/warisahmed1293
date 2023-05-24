@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Waris Ahmed</h1>
 
 <h3 align="center">A Front-End developer from Pakistan </h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=warisahmed1293 alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=warisahmed1293 alt=iamwarisahmed/> </p>
 
-<p align="left"> <a href="https://twitter.com/iamwarisahmed" target="blank"><img src="https://img.shields.io/twitter/follow/warisahmed1293?logo=twitter&style=for-the-badge" alt="iamwarisahmed" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamwarisahmed" target="blank"><img src="https://img.shields.io/twitter/follow/iamwarisahmed?logo=twitter&style=for-the-badge" alt="iamwarisahmed" /></a> </p>
 
 
 
@@ -43,10 +43,9 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
       <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=warisahmed1293 /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=warisahmed1293&show_icons=true alt=warisahmed1293 /> </p>
