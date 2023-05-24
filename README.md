@@ -27,7 +27,7 @@ I'm always excited to connect with fellow developers, share knowledge, and explo
 GitHub: github.com/warisahmed1293<br>
 Thank you for visiting my profile! Have a fantastic day! 😊<br>
 
-![Waris Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=warisahmed1293&show_icons=true&theme=transparent)
+![Waris Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=warisahmed1293&show_icons=true&theme=dark)
 
 
 
