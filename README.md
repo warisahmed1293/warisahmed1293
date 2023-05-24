@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://warisahmed1293.github.io/blog)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.upwork.com/freelancers/warisahmed4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" alt="rahuldkjain" height="30" width="40" /></a>
