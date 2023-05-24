@@ -11,8 +11,14 @@
 
 - 💬 Ask me about **React, React Native,NodeJs**
 
-- 📫 How to reach me **ahmeddaniyal52@gmail.com**
+- 📫 How to reach me **warisahmed@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
 - ⚡ Fun fact **I love watching movies and singing**
+
+  
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/warisahmed1293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniyal ahmed" height="30" width="40" /></a>
+</p>
