@@ -3,9 +3,6 @@
 <h3 align="center">A Front-End developer from Pakistan </h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=warisahmed1293 alt=iamwarisahmed/> </p>
 
-<p align="left"> <a href="https://twitter.com/iamwarisahmed" target="blank"><img src="https://img.shields.io/twitter/follow/iamwarisahmed?logo=twitter&style=for-the-badge" alt="iamwarisahmed" /></a> </p>
-
-
 
 - 💬 Ask me about **React, React Native and Next.js**
 
