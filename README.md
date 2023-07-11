@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.upwork.com/freelancers/warisahmed4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/warisahmed4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="iamwarisahmed" height="30" width="40" /></a>
     <a href="https://www.fiverr.com/creative_artizt?up_rollout=true" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fiverr.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCuqxPkI4oBRnp_yS11ZRE-Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" alt="learn with waris ahmed" height="30" width="40" /></a>
 <a href="https://twitter.com/iamwarisahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
