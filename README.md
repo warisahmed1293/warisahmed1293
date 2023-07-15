@@ -4,7 +4,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=warisahmed1293 alt=iamwarisahmed/> </p>
 
 
-- 💬 Ask me about **React, React Native and Next.js**
+- 💬 Ask me about **React js, React Native and Next.js**
 
 - 📫 Reach me at **warisahmed1293@gmail.com**
 
