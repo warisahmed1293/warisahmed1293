@@ -8,7 +8,7 @@
 
 - 📫 Reach me at **warisahmed1293@gmail.com**
 
-- 👨‍💻 All of my projects are available at [warisahmed1293](https://warisahmed1293.github.io)
+- 👨‍💻 All of my projects are available at [warisahmed1293](https://warisahmed1293.github.io) 
  
   
 
