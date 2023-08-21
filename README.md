@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waris Ahmed</h1> 
  
 <h3 align="center">A Front-End developer from Pakistan </h3> 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=warisahmed1293 alt=iamwarisahmed/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=warisahmed1293 alt=iamwarisahmed/> </p> 
 
  
 - 💬 Ask me about **React js, React Native and Next.js**
