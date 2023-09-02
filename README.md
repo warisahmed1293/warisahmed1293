@@ -10,7 +10,35 @@
 
 - 👨‍💻 All of my projects are available at [warisahmed1293](https://warisahmed1293.github.io)  
  
+
+  ## Certifications
+
+<details>
+  <summary>Click to expand</summary>
   
+  ### Certification Name 1
+  - **Issued By:** [Certification Authority 1](https://example.com/certification1)
+  - **Date Obtained:** Month Year
+  - **Description:** Briefly describe the certification and its relevance to your projects or expertise.
+
+  [![Certification 1](https://example.com/certification1-badge.png)](https://example.com/certification1)
+  
+  ### Certification Name 2
+  - **Issued By:** [Certification Authority 2](https://example.com/certification2)
+  - **Date Obtained:** Month Year
+  - **Description:** Briefly describe the certification and its relevance to your projects or expertise.
+
+  [![Certification 2](https://example.com/certification2-badge.png)](https://example.com/certification2)
+
+  ### Certification Name 3
+  - **Issued By:** [Certification Authority 3](https://example.com/certification3)
+  - **Date Obtained:** Month Year
+  - **Description:** Briefly describe the certification and its relevance to your projects or expertise.
+
+  [![Certification 3](https://example.com/certification3-badge.png)](https://example.com/certification3)
+  
+</details>
+
 
 <h3 align="left">Connect with me: </h3>
 <p align="left"> 
