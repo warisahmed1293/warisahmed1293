@@ -9,7 +9,13 @@
 - 📫 Reach me at **warisahmed1293@gmail.com**
 
 - 👨‍💻 All of my projects are available at [warisahmed1293](https://warisahmed1293.github.io)  
- 
+
+ <h3 dir="auto"><a id="user-content--recent-certifications" class="anchor" aria-hidden="true" tabindex="-1" href="#-recent-certifications"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🏆 Recent Certifications</h3>
+
+<p dir="auto"><kbd><a href="https://www.freecodecamp.org/certification/linkinsunil/responsive-web-design" rel="nofollow"><img src="https://camo.githubusercontent.com/e56a282ca81f6b235defc59c66c4a75437d1419e063eebf4494967f41ba7ea71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726565436f646543616d705f526573706f6e736976655f5765625f44657369676e2d3041304132333f6c6f676f3d66726565636f646563616d70266c6f676f436f6c6f723d7768697465" alt="RWD" data-canonical-src="https://img.shields.io/badge/FreeCodeCamp_Responsive_Web_Design-0A0A23?logo=freecodecamp&amp;logoColor=white" style="max-width: 100%;"></a></kbd>
+<kbd><a href="https://www.hackerrank.com/certificates/436f2139af9a" rel="nofollow"><img src="https://camo.githubusercontent.com/fd5e34a5cd6705ed20486b5739bfa7b6ca176273f72faf15bac0d368a84e0703/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b657252616e6b5f4a6176615363726970742d3030454136343f6c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="JS" data-canonical-src="https://img.shields.io/badge/HackerRank_JavaScript-00EA64?logo=HackerRank&amp;logoColor=white" style="max-width: 100%;"></a></kbd>
+<kbd><a href="https://www.hackerrank.com/certificates/d270d9502b77" rel="nofollow"><img src="https://camo.githubusercontent.com/634c9d5c08b652299f710faaf4a09874b1be50a00d48ba78d090075f7799db71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b657252616e6b5f4353532d3030454136343f6c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="CSS" data-canonical-src="https://img.shields.io/badge/HackerRank_CSS-00EA64?logo=HackerRank&amp;logoColor=white" style="max-width: 100%;"></a></kbd></p>
+
 
 <h3 align="left">Connect with me: </h3>
 <p align="left"> 
