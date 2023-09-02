@@ -19,23 +19,6 @@
 <a href="https://instagram.com/iamwarisahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awais881" height="30" width="40" /></a>
 </p>
 
-## Certifications
-
-### Certification Name 1
-- **Issued By:** [Certification Authority]
-- **Date Obtained:** Month Year
-- **Description:** Briefly describe the certification and its relevance to your projects or expertise.
-
-### Certification Name 2
-- **Issued By:** [Certification Authority]
-- **Date Obtained:** Month Year
-- **Description:** Briefly describe the certification and its relevance to your projects or expertise.
-
-### Certification Name 3
-- **Issued By:** [Certification Authority]
-- **Date Obtained:** Month Year
-- **Description:** Briefly describe the certification and its relevance to your projects or expertise.
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
