@@ -6,7 +6,7 @@
  
 - 💬 Ask me about **React js, React Native and Next.js**
 
-- 📫 Reach me at **warisahmed1293@gmail.com** 
+- 📫 Reach me at **warisahmed1293@gmail.com**  
 
 - 👨‍💻 All of my projects are available at [warisahmed1293](https://warisahmed1293.github.io)  
 
