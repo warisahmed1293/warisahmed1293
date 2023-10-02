@@ -2,10 +2,7 @@
  
 <h3 align="center">A Front-End developer from Pakistan </h3>  
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/warisahmed1293/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=warisahmed1293&label=Profile%20views&color=0e75b6&style=flat" alt="Waris Ahmed" /> </p>
  
    
  
