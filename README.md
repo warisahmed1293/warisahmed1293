@@ -2,9 +2,7 @@
  
 <h3 align="center">A Front-End developer from Pakistan </h3>  
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=warisahmed1293&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>  
+![](https://komarev.com/ghpvc/?warisahmed1293=your-github-warisahmed1293&color=green)
  
    
  
