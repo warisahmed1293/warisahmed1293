@@ -29,18 +29,22 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const warisAhmed = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript",],
+    askMeAbout: ["web dev", "tech", "app dev", "motion graphics"],
     technologies: {
+        frontEnd: {
+            js : ["Next.js", "React.js",],
+            cms : ["Wordpress", "Shopify", "Webflow"]
+        },
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js : ["Node", "Firebase", "Express"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            reactNative : ["Android Development"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
