@@ -36,10 +36,10 @@ const warisAhmed = {
     technologies: {
         frontEnd: {
             js : ["Next.js", "React.js",],
-            cms : ["Wordpress", "Shopify", "Webflow"]
+            cms : ["Wordpress", "Shopify", "Webflow", "Square Space"]
         },
         backEnd: {
-            js : ["Node", "Firebase", "Express"],
+            js : ["Node.js", "Firebase", "Express"],
         },
         mobileApp: {
             reactNative : ["Android Development"]
