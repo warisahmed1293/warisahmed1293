@@ -35,14 +35,14 @@ const warisAhmed = {
     askMeAbout: ["web dev", "tech", "app dev", "motion graphics"],
     technologies: {
         frontEnd: {
-            js : ["Next.js", "React.js",],
+            js : ["Next.js", "React.js"],
             cms : ["Wordpress", "Shopify", "Webflow", "Square Space"]
         },
         backEnd: {
             js : ["Node.js", "Firebase", "Express"],
         },
         mobileApp: {
-            reactNative : ["Android Development"]
+            reactNative : ["Android / iOS Development"]
         },
         devOps: ["AWS", "Docker", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
