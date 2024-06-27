@@ -44,7 +44,7 @@ const warisAhmed = {
         mobileApp: {
             reactNative : ["Android / iOS Development"]
         },
-        devOps: ["AWS", "Docker", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "SuiteApp"]
     },
