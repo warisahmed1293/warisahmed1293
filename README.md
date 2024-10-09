@@ -31,12 +31,29 @@
 ```javascript
 const warisAhmed = {
     pronouns: "He" | "Him",
-    code: ["Javascript",],
+    code: ["Javascript",Liquid.js],
     askMeAbout: ["web dev", "tech", "app dev", "motion graphics"],
     technologies: {
         frontEnd: {
             js : ["Next.js", "React.js"],
-            cms : ["Wordpress", "Shopify", "Webflow", "Square Space"]
+            cms : [
+  {
+    name: "WordPress",
+    skills: ["Theme Customization", "Plugin Development", "Gutenberg Blocks", "WooCommerce Integration"]
+  },
+  {
+    name: "Shopify",
+    skills: ["Theme Customization", "Liquid.js", "App Integration", "Shopify CLI", "Storefront API"]
+  },
+  {
+    name: "Webflow",
+    skills: ["Design Implementation", "Custom Interactions", "CMS Collections", "E-commerce Setup"]
+  },
+  {
+    name: "Square Space",
+    skills: ["Template Customization", "E-commerce Setup", "Content Management", "SEO Configuration"]
+  }
+];
         },
         backEnd: {
             js : ["Node.js", "Firebase", "Express"],
