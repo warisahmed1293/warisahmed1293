@@ -30,45 +30,46 @@
 
 ```javascript
 const warisAhmed = {
-    pronouns: "He" | "Him",
-    code: ["Javascript",Liquid.js],
-    askMeAbout: ["web dev", "tech", "app dev", "motion graphics"],
+    pronouns: "He/Him",
+    code: ["JavaScript", "Liquid.js"],
+    askMeAbout: ["Web Development", "Technology", "App Development", "Motion Graphics"],
     technologies: {
         frontEnd: {
-            js : ["Next.js", "React.js"],
-            cms : [
-  {
-    name: "WordPress",
-    skills: ["Theme Customization", "Plugin Development", "Gutenberg Blocks", "WooCommerce Integration"]
-  },
-  {
-    name: "Shopify",
-    skills: ["Theme Customization", "Liquid.js", "App Integration", "Shopify CLI", "Storefront API"]
-  },
-  {
-    name: "Webflow",
-    skills: ["Design Implementation", "Custom Interactions", "CMS Collections", "E-commerce Setup"]
-  },
-  {
-    name: "Square Space",
-    skills: ["Template Customization", "E-commerce Setup", "Content Management", "SEO Configuration"]
-  }
-];
+            js: ["Next.js", "React.js"],
+            cms: [
+                {
+                    name: "WordPress",
+                    skills: ["Theme Customization", "Plugin Development", "Gutenberg Blocks", "WooCommerce Integration"]
+                },
+                {
+                    name: "Shopify",
+                    skills: ["Theme Customization", "Liquid.js", "App Integration", "Shopify CLI", "Storefront API"]
+                },
+                {
+                    name: "Webflow",
+                    skills: ["Design Implementation", "Custom Interactions", "CMS Collections", "E-commerce Setup"]
+                },
+                {
+                    name: "Square Space",
+                    skills: ["Template Customization", "E-commerce Setup", "Content Management", "SEO Configuration"]
+                }
+            ]
         },
         backEnd: {
-            js : ["Node.js", "Firebase", "Express"],
+            js: ["Node.js", "Firebase", "Express"],
         },
         mobileApp: {
-            reactNative : ["Android / iOS Development"]
+            reactNative: ["Android/iOS Development"]
         },
         devOps: ["AWS", "Docker"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "SuiteApp"]
+        databases: ["MongoDB", "MySQL", "SQLite"],
+        misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
+    currentFocus: "No focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works."
 };
+
 ```
 
 
