@@ -43,7 +43,7 @@ const warisAhmed = {
                 },
                 {
                     name: "Shopify",
-                    skills: ["Theme Customization", "Liquid.js", "App Integration", "Shopify CLI", "Storefront API"]
+                    skills: ["Theme Customization", "Liquid.js", "Hydrogen", "Oxygen" "App Integration", "Shopify CLI", "Storefront API"]
                 },
                 {
                     name: "Webflow",
@@ -61,11 +61,9 @@ const warisAhmed = {
         mobileApp: {
             reactNative: ["Android/iOS Development"]
         },
-        devOps: ["AWS", "Docker"],
-        databases: ["MongoDB", "MySQL", "SQLite"],
-        misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV", "SuiteApp"]
+        databases: ["MongoDB", "noSQL"],
+        misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
     currentFocus: "No focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works."
 };
