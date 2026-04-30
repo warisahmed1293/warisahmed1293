@@ -3,7 +3,6 @@
 <!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=warisahmed1293&label=Profile+views&color=0e75b6&style=flat" />
 
-<br/><br/>
 # Waris Ahmed
 
 **Shopify Developer · React Native · Full-Stack · Based in Karachi, Pakistan**
